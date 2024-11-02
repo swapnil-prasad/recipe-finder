@@ -1,0 +1,391 @@
+[
+    {
+      "id": "613b8b1c28a914001b7d28a1",
+      "title": "Coffee",
+      "steps": [
+        "Boil 1 cup of water in a kettle.",
+        "Add 1-2 teaspoons of coffee powder to a cup.",
+        "Pour hot water into the cup over the coffee powder.",
+        "Stir well until the coffee powder dissolves.",
+        "Add sugar and milk to taste, stir again."
+      ],
+      "image": "/coffee.jpg",
+      "description": "A simple yet refreshing cup of coffee to kickstart your day.",
+      "ingredients": [
+        "1 cup water",
+        "1-2 teaspoons coffee powder",
+        "Sugar",
+        "Milk"
+      ],
+      "cookingTime": "5 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28a2",
+      "title": "Sandwich",
+      "steps": [
+        "Take 2 slices of bread and spread butter on one side of each slice.",
+        "Layer lettuce leaves, sliced tomatoes, cucumber, and cheese on one slice.",
+        "Place the other slice of bread on top, butter side down.",
+        "Press gently and cut the sandwich diagonally."
+      ],
+      "image": "/sandwich.jpg",
+      "description": "A quick and easy vegetable sandwich for a light meal.",
+      "ingredients": [
+        "2 slices of bread",
+        "Butter",
+        "Lettuce",
+        "Tomato",
+        "Cucumber",
+        "Cheese"
+      ],
+      "cookingTime": "10 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28a3",
+      "title": "Pan Cake",
+      "steps": [
+        "In a mixing bowl, combine 1 cup of flour, 2 tablespoons of sugar, and 1 teaspoon of baking powder.",
+        "Gradually add 1 cup of milk while whisking to form a smooth batter.",
+        "Heat a non-stick pan over medium heat and grease lightly with butter.",
+        "Pour a ladleful of batter onto the pan and spread it in a circular motion.",
+        "Cook until bubbles form on the surface, then flip and cook the other side until golden brown."
+      ],
+      "image": "/pancake.jpg",
+      "description": "Fluffy pancakes perfect for a hearty breakfast.",
+      "ingredients": [
+        "1 cup flour",
+        "2 tbsp sugar",
+        "1 tsp baking powder",
+        "1 cup milk",
+        "Butter"
+      ],
+      "cookingTime": "20 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28a4",
+      "title": "French Fries",
+      "steps": [
+        "Peel and cut 3 large potatoes into thin strips.",
+        "Soak the potato strips in cold water for 30 minutes to remove excess starch.",
+        "Drain the potatoes and pat them dry with a kitchen towel.",
+        "Heat oil in a deep fryer or large pot to 350°F (175°C).",
+        "Fry the potatoes in batches for 4-5 minutes until they are soft but not browned. Remove and   drain on paper towels.",
+        "Increase the oil temperature to 375°F (190°C).",
+        "Fry the potatoes again in batches for 2-3 minutes until they are golden brown and crispy.",
+        "Remove from oil, drain on paper towels, and immediately season with salt.",
+        "Serve hot with your favorite dipping sauce."
+      ],
+      "image": "/fries.jpg",
+      "description": "Crispy and golden French fries, perfect as a snack or side dish.",
+      "ingredients": ["3 large potatoes", "Oil for frying", "Salt"],
+      "cookingTime": "1 hour "
+    },
+    {
+      "id": "613b8b1c28a914001b7d28a5",
+      "title": "Chicken Kebabs",
+      "steps": [
+        "Cut 500g of boneless chicken into cubes.",
+        "In a bowl, mix 2 tablespoons of yogurt, 1 tablespoon of ginger-garlic paste, 1 teaspoon of red chili powder, 1/2 teaspoon of turmeric powder, 1 teaspoon of garam masala, and salt to taste.",
+        "Marinate the chicken cubes in the mixture for at least 2 hours in the refrigerator.",
+        "Thread the marinated chicken cubes onto skewers.",
+        "Grill the kebabs on medium heat for 10-12 minutes, turning occasionally until cooked through and lightly charred."
+      ],
+      "image": "/chicken_kebab.jpeg",
+      "description": "Spicy and succulent kebabs made from marinated chicken.",
+      "ingredients": [
+        "500g boneless chicken",
+        "Yogurt",
+        "Ginger-garlic paste",
+        "Spices",
+        "Salt"
+      ],
+      "cookingTime": "30 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28a6",
+      "title": "Poha",
+      "steps": [
+        "Rinse poha in water and drain it well. Set aside.",
+        "Heat oil in a pan, add mustard seeds. When they splutter, add curry leaves, green chilies, onions, and peanuts. Sauté until onions turn soft.",
+        "Add turmeric and salt, then mix in the rinsed poha. Stir gently and cook for 3-4 minutes.",
+        "Turn off the heat, add lemon juice and coriander leaves. Serve hot."
+      ],
+      "image": "/Poha.jpg",
+      "description": "Poha is a light and flavorful Indian breakfast dish made from flattened rice, sautéed with onions, mustard seeds, curry leaves, and spices. It’s quick to prepare and is often garnished with coriander, lemon, and peanuts.",
+      "ingredients": [
+        "Flattened Rice (Poha) – 2 cups",
+        "Onion – 1 (chopped)",
+        "Green Chilies – 2 (slit)",
+        "Mustard Seeds – 1 tsp",
+        "Turmeric Powder – ½ tsp",
+        "Curry Leaves – 1 sprig",
+        "Peanuts – ¼ cup",
+        "Oil – 2 tbsp",
+        "Salt – to taste",
+        "Lemon Juice – 1 tbsp",
+        "Coriander Leaves – for garnish",
+        "Water – to rinse poha"
+      ],
+      "cookingTime": "10-15 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28a7",
+      "title": "Dosa",
+      "steps": [
+        "Soak rice, urad dal, and fenugreek seeds separately for 4-6 hours.",
+        "Grind urad dal and fenugreek into a smooth batter. Grind rice coarsely and combine both, Add salt.",
+        "Let the batter ferment overnight (8-12 hours) until it rises and becomes airy.",
+        "Heat a tawa (griddle) and pour a ladle of batter, spreading it thinly in a circular motion.",
+        "Drizzle oil around the edges and cook until crisp. Fold and remove from the pan."
+
+      ],
+      "image": "/Dosa.jpg",
+      "description": "Dosa is a thin, crispy South Indian crepe made from a fermented batter of rice and urad dal (black lentils). It’s typically served with sambar and coconut chutney, making it a popular breakfast or snack option.",
+      "ingredients": [
+        "Dosa Rice – 2 cups",
+        "Urad Dal (split black gram) – ½ cup",
+        "Fenugreek Seeds – ½ tsp",
+        "Salt – to taste",
+        "Oil – for cooking",
+        "Water – as needed (for soaking and grinding)"
+      ],
+      "cookingTime": "30 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28a8",
+      "title": "Upma",
+      "steps": [
+        "Dry roast the semolina until golden and fragrant. Set aside.",
+        "Heat oil/ghee in a pan, add mustard seeds, curry leaves, and cashews/peanuts. Add onions and green chilies, and sauté until soft.",
+        "Add water, salt, and bring to a boil. Slowly add roasted semolina while stirring continuously to avoid lumps. Cook until the mixture thickens.",
+        "Turn off the heat, garnish with coriander leaves, and serve hot."
+      ],
+      "image": "/upma.jpeg",
+      "description": "Upma is a savory South Indian breakfast dish made from roasted semolina (rava), cooked with vegetables, spices, and tempered with mustard seeds, curry leaves, and nuts. It is quick, wholesome, and can be made in under 20 minutes.",
+      "ingredients": [
+        "Semolina (Rava/Sooji) – 1 cup",
+        "Onion – 1 (chopped)",
+        "Green Chilies – 2 (slit)",
+        "Mustard Seeds – 1 tsp",
+        "Curry Leaves – 1 sprig",
+        "Cashews/Peanuts – 2 tbsp (optional)",
+        "Oil/Ghee – 2 tbsp",
+        "Water – 2½ cups",
+        "Salt – to taste",
+        "Coriander Leaves – for garnish"
+      ],
+      "cookingTime": "40 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28a9",
+      "title": "Chana Masala",
+      "steps": [
+        "Soak 1 cup of chickpeas overnight, then drain and cook in 3 cups of water until tender.",
+        "Heat 2 tablespoons of oil in a pan and sauté 1 chopped onion until golden brown.",
+        "Add 1 tablespoon of ginger-garlic paste and cook for a minute.",
+        "Add 1 chopped tomato, 1 teaspoon of turmeric powder, 1 teaspoon of coriander powder, 1 teaspoon of garam masala, and salt to taste.",
+        "Cook until the tomato is soft, then add the cooked chickpeas and 1 cup of water.",
+        "Simmer for 15 minutes, then garnish with chopped coriander leaves."
+      ],
+      "image": "/chana_masala.jpg",
+      "description": "A spicy and tangy chickpea curry that is perfect with rice or roti.",
+      "ingredients": [
+        "1 cup chickpeas",
+        "1 onion",
+        "1 tomato",
+        "Ginger-garlic paste",
+        "Turmeric powder",
+        "Coriander powder",
+        "Garam masala",
+        "Salt",
+        "Oil",
+        "Coriander leaves"
+      ],
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28aa",
+      "title": "Chicken Karahi",
+      "steps": [
+        "Heat 2 tablespoons of oil in a karahi (wok) and sauté 1 chopped onion until translucent.",
+        "Add 1 tablespoon of ginger-garlic paste and cook for a minute.",
+        "Add 500g of chicken pieces and cook until they turn white.",
+        "Add 2 chopped tomatoes, 1 teaspoon of red chili powder, 1 teaspoon of turmeric powder, 1 teaspoon of garam masala, and salt to taste.",
+        "Cook on high heat until the tomatoes are soft and the oil separates.",
+        "Garnish with chopped green chilies and coriander leaves before serving."
+      ],
+      "image": "/karahi.jpg",
+      "description": "A popular and flavorful chicken dish cooked in a wok.",
+      "ingredients": [
+        "500g chicken",
+        "1 onion",
+        "2 tomatoes",
+        "Ginger-garlic paste",
+        "Red chili powder",
+        "Turmeric powder",
+        "Garam masala",
+        "Salt",
+        "Oil",
+        "Green chilies",
+        "Coriander leaves"
+      ],
+      "cookingTime": "40 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28b1",
+      "title": "Palak Paneer",
+      "steps": [
+        "Blanch spinach in hot water for 2-3 minutes, then blend into a smooth puree.",
+        "Heat oil/ghee in a pan, add cumin seeds, then sauté onions until golden. Add ginger-garlic paste and green chilies, followed by tomatoes, turmeric, and red chili powder. Cook until the tomatoes soften.",
+        "Add spinach puree, salt, and garam masala. Cook for 5-7 minutes. Add paneer cubes and cook for another 2 minutes."
+      ],
+      "image": "/palak_paneer.jpg",
+      "description": "Palak Paneer is a popular North Indian dish made with soft paneer cubes simmered in a creamy, spiced spinach (palak) gravy. It's rich in flavor and nutrients, typically served with roti, naan, or rice.",
+      "ingredients": [
+        "Spinach (Palak) – 4 cups (blanched and pureed)",
+        "Paneer – 200g (cubed)",
+        "Onion – 1 (chopped)",
+        "Tomato – 1 (chopped)",
+        "Ginger-Garlic Paste – 1 tsp",
+        "Green Chilies – 2 (slit)",
+        "Cumin Seeds – 1 tsp",
+        "Turmeric Powder – ¼ tsp",
+        "Red Chili Powder – ½ tsp",
+        "Garam Masala – ½ tsp",
+        "Cream – 2 tbsp (optional)",
+        "Oil/Ghee – 2 tbsp",
+        "Salt – to taste"
+    ],
+      "cookingTime": "50 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28ab",
+      "title": "Gulab Jamun",
+      "steps": [
+        "In a bowl, mix 1 cup of milk powder, 1/4 cup of all-purpose flour, 1/4 teaspoon of baking soda, and 2 tablespoons of ghee.",
+        "Add milk gradually to form a soft dough.",
+        "Make small balls from the dough and deep fry in hot oil until golden brown.",
+        "In another pot, heat 1 cup of sugar and 1 cup of water until the sugar dissolves and the syrup thickens slightly.",
+        "Soak the fried balls in the sugar syrup for at least 30 minutes before serving."
+      ],
+      "image": "/gulab_jamun.jpg",
+      "description": "A traditional Indian dessert made from deep-fried dough balls soaked in sweet syrup.",
+      "ingredients": [
+        "1 cup milk powder",
+        "1/4 cup all-purpose flour",
+        "1/4 tsp baking soda",
+        "2 tbsp ghee",
+        "Milk",
+        "Oil for frying",
+        "1 cup sugar",
+        "1 cup water"
+      ],
+      "cookingTime": "1 hour"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28ac",
+      "title": "Chicken Biryani",
+      "steps": [
+        "Wash and soak 1 cup of basmati rice for 30 minutes, then drain.",
+        "Marinate 500g of chicken pieces with yogurt, ginger-garlic paste, and biryani masala for 1 hour.",
+        "In a large pot, heat 2 tablespoons of ghee and sauté thinly sliced onions until golden brown.",
+        "Add the marinated chicken and cook until the chicken is half-done.",
+        "Layer the half-cooked rice over the chicken, sprinkle fried onions, mint leaves, and saffron milk.",
+        "Cover and cook on low heat for 20-25 minutes until the rice and chicken are fully cooked."
+      ],
+      "image": "/biryani.jpg",
+      "description": "A flavorful and aromatic rice dish with spiced chicken.",
+      "ingredients": [
+        "1 cup basmati rice",
+        "500g chicken",
+        "Yogurt",
+        "Ginger-garlic paste",
+        "Biryani masala",
+        "Ghee",
+        "Onion",
+        "Mint leaves",
+        "Saffron"
+      ],
+      "cookingTime": "1 hour 30 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28ad",
+      "title": "Aloo Paratha",
+      "steps": [
+        "Boil and mash 2 large potatoes.",
+        "Add 1 chopped onion, 1 chopped green chili, 1 teaspoon of cumin seeds, 1 teaspoon of garam masala, and salt to taste to the mashed potatoes. Mix well.",
+        "Divide the dough into small balls and roll each ball into a small circle.",
+        "Place a spoonful of the potato mixture in the center of the dough circle and fold the edges to seal.",
+        "Roll the filled dough ball into a larger circle, being careful not to let the filling spill out.",
+        "Heat a tawa or skillet over medium heat and cook the paratha on both sides until golden brown, applying ghee or oil as needed."
+      ],
+      "image": "/aloo_paratha.jpg",
+      "description": "A traditional flatbread stuffed with a spiced potato filling.",
+      "ingredients": [
+        "2 potatoes",
+        "1 onion",
+        "1 green chili",
+        "Cumin seeds",
+        "Garam masala",
+        "Salt",
+        "Dough",
+        "Ghee or oil"
+      ],
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28ae",
+      "title": "Matar Paneer",
+      "steps": [
+       " Lightly fry the paneer cubes in oil/ghee until golden. Set aside.",
+       " In the same pan, heat oil/ghee and add cumin seeds. Sauté onions until golden, then add ginger-garlic paste. Stir in tomato puree, turmeric, red chili powder, and coriander powder. Cook until oil separates.",
+       " Add peas and water, cooking until the peas soften. Add fried paneer, garam masala, and salt. Simmer for 5-7 minutes.",
+       " Stir in cream (optional) and cook for another 1-2 minutes. Serve hot."
+        
+      ],
+      "image": "/matar.jpeg",
+      "description": "A slow-cooked beef stew with a rich and spicy gravy, typically served for breakfast.",
+      "ingredients": [
+        "Paneer – 200g (cubed)",
+        "Green Peas (Matar) – 1 cup (fresh or frozen)",
+        "Onion – 1 (chopped)",
+        "Tomato – 2 (pureed)",
+        "Ginger-Garlic Paste – 1 tsp",
+        "Cumin Seeds – 1 tsp",
+        "Turmeric Powder – ¼ tsp",
+        "Red Chili Powder – ½ tsp",
+        "Coriander Powder – 1 tsp",
+        "Garam Masala – ½ tsp",
+        "Cream – 2 tbsp (optional)",
+        "Oil/Ghee – 2 tbsp",
+        "Salt – to taste",
+        "Water – as needed"
+      ],
+      "cookingTime": "40-45 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28af",
+      "title": "Seekh Kebabs",
+      "steps": [
+        "In a large bowl, mix 500g of minced beef or lamb with 1 chopped onion, 1 tablespoon of ginger-garlic paste, 2 teaspoons of red chili powder, 1 teaspoon of garam masala, 1 teaspoon of cumin powder, and salt to taste.",
+        "Add a handful of chopped coriander leaves and mix well.",
+        "Take small portions of the mixture and shape them onto skewers.",
+        "Grill or barbecue the kebabs on medium heat for 10-15 minutes, turning occasionally, until cooked through and slightly charred.",
+        "Serve hot with naan or chutney."
+      ],
+      "image": "/seekh_kebab.jpg",
+      "description": "Spicy and flavorful kebabs made from minced meat, grilled to perfection.",
+      "ingredients": [
+        "500g minced beef or lamb",
+        "1 onion",
+        "Ginger-garlic paste",
+        "Red chili powder",
+        "Garam masala",
+        "Cumin powder",
+        "Salt",
+        "Coriander leaves"
+      ],
+      "cookingTime": "30 minutes"
+    }
+
+  ]
